@@ -1,6 +1,6 @@
 # Exercícios de Lógica de Programação
 
-Repositório criado para compartilhar a resolução dos exercícios do curso de Lógica de Programação, ministrado pelo professor [Nélio Alves](https://github.com/acenelio) na plataforma Udemy.
+Repositório criado para compartilhar a resolução dos exercícios propostos no curso de Lógica de Programação, ministrado pelo professor [Nélio Alves](https://github.com/acenelio) na plataforma Udemy.
 
 Os exercícios resolvidos são da categoria "Iniciante" da plataforma [Beecrowd](https://judge.beecrowd.com/pt)
 
